@@ -1,0 +1,29 @@
+{
+  "changeType": "propertyChange",
+  "reference": "customer.hcm.pay.mon.extension",
+  "namespace": "apps/customer.hcm.pay.mon.extension/changes/",
+  "creation": "2026-05-24T16:35:11.798Z",
+  "projectId": "customer.hcm.pay.mon.extension",
+  "packageName": "$TMP",
+  "support": {
+    "generator": "@sap-ux/control-property-editor",
+    "sapui5Version": "1.120.23",
+    "command": "property"
+  },
+  "originalLanguage": "EN",
+  "layer": "CUSTOMER_BASE",
+  "fileType": "change",
+  "fileName": "id_1779640366218_105_propertyChange",
+  "content": {
+    "property": "visible",
+    "newValue": false
+  },
+  "texts": {},
+  "selector": {
+    "id": "paystubsList--grossPayCol",
+    "type": "sap.m.Column",
+    "idIsLocal": true
+  },
+  "dependentSelector": {},
+  "jsOnly": false
+}

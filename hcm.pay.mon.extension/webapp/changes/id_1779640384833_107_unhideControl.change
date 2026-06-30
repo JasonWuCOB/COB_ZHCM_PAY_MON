@@ -1,0 +1,26 @@
+{
+  "changeType": "unhideControl",
+  "reference": "customer.hcm.pay.mon.extension",
+  "namespace": "apps/customer.hcm.pay.mon.extension/changes/",
+  "creation": "2026-05-24T16:35:11.800Z",
+  "projectId": "customer.hcm.pay.mon.extension",
+  "packageName": "$TMP",
+  "support": {
+    "generator": "@sap-ux/control-property-editor",
+    "sapui5Version": "1.120.23",
+    "compositeCommand": "id_1779640384833_108_composite",
+    "command": "reveal"
+  },
+  "originalLanguage": "EN",
+  "layer": "CUSTOMER_BASE",
+  "fileType": "change",
+  "fileName": "id_1779640384833_107_unhideControl",
+  "content": {},
+  "texts": {},
+  "selector": {
+    "id": "paystubsList--deductionsColText",
+    "idIsLocal": true
+  },
+  "dependentSelector": {},
+  "jsOnly": false
+}
